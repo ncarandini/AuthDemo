@@ -10,3 +10,5 @@ This is a lab project to experiment with AAD B2C Authentication in Xamarin Forms
 - Use a minimalist MVVM approach with James Montemagno MvvmHelpers
 - Experiment with different architectural solution
 - Experiment with shell UI to integrate the login/logout process and visual representation of User info and status
+- Add Social Authentication like Facebook with Azure ADB2C
+- Try to authenticate using Xamarin Essential WebAuthenticator https://docs.microsoft.com/en-us/xamarin/essentials/web-authenticator?tabs=uwp
